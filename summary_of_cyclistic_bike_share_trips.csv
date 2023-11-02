@@ -1,4 +1,4 @@
-"","year_month","year","month","member_casual","rideable_type","number_day_of_week","day_of_week","number_of_rides","total_duration"
+"","year_month","year","month","member_casual","rideable_type","number_day_of_week","day_of_week","number_of_trips","total_duration"
 "1","2022-08","2022","08","casual","classic_bike",1,"Sunday",17859,529290.600000002
 "2","2022-08","2022","08","casual","classic_bike",2,"Monday",14542,382831.150000001
 "3","2022-08","2022","08","casual","classic_bike",3,"Tuesday",17709,484195.183333333
