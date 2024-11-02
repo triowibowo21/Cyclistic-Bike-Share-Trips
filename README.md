@@ -33,7 +33,7 @@ So that for this case, I use **6 (six) Steps of Process Analysis** :
 - Analysis
 - Share
 - ACT
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4h7ahFBqnaFHeWibHWOl7w.png" width=1400px height=400px />
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4U9nrJmFBiLlJdUSA4hipQ.jpeg" width=1400px height=350px />
 to get insight from data at last 12 month (August 2022 - July 2023) created strategy business or decision making for my stakeholder.
 
 
