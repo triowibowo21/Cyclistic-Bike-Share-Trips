@@ -41,7 +41,7 @@ R, HTML, Data Analyst, Tableau, Google sheet
 ## 🔗 Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/triowibowo21/cyclistic-bike-share-analysis/blob/master/cyclistic_bike_share_trips.ipynb)
 [![medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://triowibowo21.medium.com/cyclistic-bike-share-trips-c6e3e208ff1e)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7126036010915835905)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/triowibowo_cyclistic-bike-share-trips-activity-7126036010915835905-7166?utm_source=share&utm_medium=member_desktop)
 [![kaggle](https://img.shields.io/badge/kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/triowibowo28/cyclistic-bike-share-analysis)
 [![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/trio.wibowo/viz/CylisticBikeShareTrips/cylisticbikesharetrips)
 
