@@ -1,7 +1,4 @@
-# Hi, I'm Trio Wibowo! 👋
-
-## 🚀 About Me
-I'm a data analyst, with 3+ years of experience in analyze data to improve quality services and customer statisfaction. I attended training to improve skills in data processing, data storytelling, data mining, exploratory data analytics, and machine learning using programming languages like Python, SQL, Bigquery to solve problems.
+# Cyclistic Bike Share Analysis
 
 ## Background
 This is case study from the Google Data Analytics Certificate about How did a bike-share business achieve success?
